@@ -1,0 +1,8 @@
+# Настройки для первой колонки
+column1_background=1
+column1_font_color=6
+
+# Настройки для второй колонки
+column2_background=1
+column2_font_color=5
+
